@@ -12,4 +12,4 @@ In addition to `make_cert.sh`, there a few other scripts worth mentioning:
     requests. The database takes time to start up, so the script should hang
     until HTTPS is responding to ensure the system tests that follow do
     not fail (false negatives). This takes one argument which specifies
-    the number of seconds to wait. The value 60 appears to work well..//
+    the number of seconds to wait. The value 60 appears to work well..//\\
