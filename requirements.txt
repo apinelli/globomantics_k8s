@@ -3,5 +3,6 @@ requests
 pytest
 pylint
 bandit
+importlib-metadata==5.0.0
 mysqlclient
 SQLAlchemy
