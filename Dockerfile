@@ -1,7 +1,7 @@
 # Begin with a lightweight Python 3.7.3 container, which is the same
 # version we used for our development. Alpine Linux is a minimal
 # distribution and is popular for containerized apps.
-FROM python:3.7.3-alpine
+FROM python:3.8-alpine
 LABEL maintainer="njrusmc@gmail.com"
 
 # Shell commands to execute after basic Python 3.7 container
